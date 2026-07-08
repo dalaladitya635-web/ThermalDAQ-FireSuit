@@ -1,0 +1,35 @@
+THERMALDAQ FIRE SUIT ANALYSIS REPORT
+==================================================
+
+Sensor_1
+Temperature : 740 °C
+Prediction  : Third Degree
+
+Sensor_2
+Temperature : 745 °C
+Prediction  : Third Degree
+
+Sensor_3
+Temperature : 750 °C
+Prediction  : Third Degree
+
+Sensor_4
+Temperature : 742 °C
+Prediction  : Third Degree
+
+Sensor_5
+Temperature : 744 °C
+Prediction  : Third Degree
+
+Sensor_6
+Temperature : 748 °C
+Prediction  : Third Degree
+
+Sensor_7
+Temperature : 751 °C
+Prediction  : Third Degree
+
+Sensor_8
+Temperature : 747 °C
+Prediction  : Third Degree
+
