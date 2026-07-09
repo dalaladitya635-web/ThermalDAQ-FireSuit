@@ -2,18 +2,18 @@
 __pycache__/
 *.pyc
 
-# Virtual Environment
+# Virtual environments
 venv/
 .env
 
 # macOS
 .DS_Store
 
-# Jupyter
-.ipynb_checkpoints/
-
 # VS Code
 .vscode/
 
-# Generated Reports (optional)
+# Generated Reports
 reports/*.txt
+
+# Streamlit
+.streamlit/
