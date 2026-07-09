@@ -175,36 +175,6 @@ The Streamlit dashboard allows users to:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of the dashboard here after deployment.
-
-Example:
-
-```
-images/dashboard.png
-
-images/temperature_analysis.png
-
-images/burn_prediction.png
-```
-
----
-
-## 🚀 Future Improvements
-
-* Interactive Plotly visualizations
-* Real-time thermal monitoring
-* Body-region thermal mapping
-* PDF report generation
-* Sensor health monitoring
-* AI-assisted experiment summarization
-* Time-based burn injury modeling
-* Cloud database integration
-* IoT sensor support
-
----
-
 ## 📚 Applications
 
 This project can serve as a demonstration platform for:
